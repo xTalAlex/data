@@ -1,0 +1,80 @@
+{
+  "Spotify": {
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spotify.svg",
+    "rates": {
+      "Worldwide": 0.0035,
+      "USA": 0.0048,
+      "UK": 0.0046,
+      "Europe": 0.0044,
+      "Australia": 0.0042,
+      "South America": 0.0018,
+      "Asia": 0.0022,
+      "Africa": 0.0015
+    }
+  },
+  "Apple Music": {
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/applemusic.svg",
+    "rates": {
+      "Worldwide": 0.0078,
+      "USA": 0.0095,
+      "UK": 0.0092,
+      "Europe": 0.0088,
+      "Australia": 0.0085,
+      "South America": 0.0055,
+      "Asia": 0.0060,
+      "Africa": 0.0045
+    }
+  },
+  "YouTube Music": {
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtubemusic.svg",
+    "rates": {
+      "Worldwide": 0.0074,
+      "USA": 0.0090,
+      "UK": 0.0088,
+      "Europe": 0.0085,
+      "Australia": 0.0082,
+      "South America": 0.0050,
+      "Asia": 0.0058,
+      "Africa": 0.0042
+    }
+  },
+  "Amazon Music": {
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazon.svg",
+    "rates": {
+      "Worldwide": 0.0038,
+      "USA": 0.0050,
+      "UK": 0.0049,
+      "Europe": 0.0047,
+      "Australia": 0.0045,
+      "South America": 0.0025,
+      "Asia": 0.0030,
+      "Africa": 0.0020
+    }
+  },
+  "Tidal": {
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tidal.svg",
+    "rates": {
+      "Worldwide": 0.0125,
+      "USA": 0.0150,
+      "UK": 0.0145,
+      "Europe": 0.0140,
+      "Australia": 0.0135,
+      "South America": 0.0090,
+      "Asia": 0.0100,
+      "Africa": 0.0080
+    }
+  },
+  "Deezer": {
+    "logo": "https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/deezer.svg",
+    "rates": {
+      "Worldwide": 0.0059,
+      "USA": 0.0072,
+      "UK": 0.0070,
+      "Europe": 0.0068,
+      "Australia": 0.0065,
+      "South America": 0.0040,
+      "Asia": 0.0045,
+      "Africa": 0.0035
+    }
+  }
+}
